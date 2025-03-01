@@ -3,10 +3,12 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- 🌱 I’m currently learning **ReactJS**  
-- 💼 I’m working on **Frontend projects**  
-- 📫 How to reach me: **fozilxonabdusalamov2006@gmail.com**  
-
+- <h1 align="start">Hi 👋, I'm Fozilxon</h1>
+- 👀 I’m interested in creating new products and overcoming challanges
+- 🦾 I’m currently expert at `HTML|CSS|JavaScript|React|Redux`
+- 📫 How to reach me (email): fozilxonabdusalamov2006@gmail.com
+  
+<br/>
 ---
 
 ### 🛠 Languages and Tools:
