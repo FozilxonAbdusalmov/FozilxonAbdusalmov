@@ -1,12 +1,14 @@
+<h1 align="start">Hi 👋, I'm Fozilxon</h1>
+<h3 align="start">A passionate Frontend Developer</h3>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-- <h1 align="start">Hi 👋, I'm Fozilxon</h1>
-- 👀 I’m interested in creating new products and overcoming challenges.
-- 🦾 I’m currently an expert at `HTML|CSS|JavaScript|React|Redux`.
-- 📫 How to reach me (email): fozilxonabdusalamov2006@gmail.com
-  
-<br/>
+- 🌱 I’m currently learning **ReactJS**  
+- 💼 I’m working on **Frontend projects**  
+- 📫 How to reach me: **fozilxonabdusalamov2006@gmail.com**  
+
 ---
+
 ### 🛠 Languages and Tools:
 <p align="left">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -31,19 +33,23 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
 </p>
+
 ---
-<br>
 
 ### 📊 GitHub Stats:
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Fozilxon&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fozilxon&theme=radical" />
 </p>
+
 ---
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://t.me/fozilxon25x" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Telegram"/>
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
 </p>
