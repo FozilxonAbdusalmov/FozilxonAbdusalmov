@@ -7,8 +7,8 @@
       top="0"
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     />
-    - 🌱 I’m currently programming **ReactJs** - 📫 How to reach me
-    **fozilxonabdusalamov2006@gmail.com**
+    - 🌱 I’m currently programming **ReactJs**
+    - 📫 How to reach me **fozilxonabdusalamov2006@gmail.com**
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
