@@ -10,7 +10,7 @@
     />
     - 🌱 I’m currently programming **ReactJs**
     <br/>
-    - 📫 How to reach me (email): fozilxonabdusalamov2006@gmail.com
+    - 📫 How to reach me (email): `fozilxonabdusalamov2006@gmail.com`
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
