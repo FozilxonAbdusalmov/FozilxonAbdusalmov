@@ -1,5 +1,6 @@
   <h1 align="start">Hi 👋, I'm Fozilxon</h1>
     <h3 align="start">A passionate Frontend developer</h3>
+    - 🦾 I’m currently expert at `HTML|CSS|JavaScript|React|Redux`
     <img
       align="right"
       alt="Coding"
@@ -8,7 +9,7 @@
       src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
     />
     - 🌱 I’m currently programming **ReactJs**
-    - 📫 How to reach me **fozilxonabdusalamov2006@gmail.com**
+    - 📫 How to reach me (email):fozilxonabdusalamov2006@gmail.com
     <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
